@@ -2,3 +2,5 @@ fastapi
 uvicorn
 scikit-learn
 pandas
+
+# https://recommendation-system-1-xtft.onrender.com
